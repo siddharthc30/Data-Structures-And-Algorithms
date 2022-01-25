@@ -13,7 +13,7 @@ public class numbers
             return;
         }
         printnum(n - 1);
-        System.out.println(n);
+        System.out.println(n); 
     }
 
 }
